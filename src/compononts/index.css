@@ -1,0 +1,37 @@
+.card-wrapper {
+    background: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 30px;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  .card {
+    width: 250px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 1px 3px 5px darkgrey;
+    background: #fff;
+  
+  }
+  p {
+    padding: 10px;
+    background: lightgray;
+    border: none;
+    border-radius: 10px;
+     cursor: pointer;
+  }
+  h3 {
+    padding: 10px;
+    background: rgb(138, 140, 143);
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  
+  }
+  
+  
